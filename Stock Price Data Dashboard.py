@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[69]:
-
-
 #PART 1 - IMPORT NECESSARY TOOLS AND SETUP GRAPH
 
 # Import all necessary Python libraries
